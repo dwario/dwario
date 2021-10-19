@@ -1,4 +1,4 @@
-## Hey, I'm Daniela Wario ✌️
+## Hi, I'm Daniela Wario ✌️
 
 Frontend Developer by day Ninja by night, who is passionate about web technologies and building awesome projects. I love using new technologies and design to improve life.        
 
