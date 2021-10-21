@@ -19,3 +19,5 @@ Frontend Developer by day Ninja by night, who is passionate about web technologi
 
 ![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwario&show_icons=true&theme=blueberry)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwario&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
