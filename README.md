@@ -1,5 +1,4 @@
-## Hi, I'm Daniela Wario <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-
+## Hi, I'm Daniela Wario <img src="https://i.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.webp" width="30" height="30"/>
 <img src="./assets/dwmb.png"/>
 
 Frontend Developer by day Ninja by night, who is passionate about web technologies and building awesome projects. I love using new technologies and design to improve life.        
