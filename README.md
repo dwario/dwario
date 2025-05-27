@@ -1,5 +1,5 @@
 ## Hi, I'm Daniela Wario <img src="https://i.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.webp" width="30" height="30"/>
-<img src="./assets/dwmb.png"/>
+<img src="./assets/banner_link.png"/>
 
 I’m a software developer with a passion for data science and data analysis, applying a data-driven approach to problem-solving. I leverage advanced technologies and analytical techniques to extract insights and develop effective solution.
 
