@@ -15,5 +15,4 @@ Frontend Developer by day Ninja by night, who is passionate about web technologi
 
 ### 📫 Contact 
 
-<a href="https://www.linkedin.com/in/danielawario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![GMAIL](https://img.shields.io/badge/danielawario@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&mailto:danielawario@outlook.com)](mailto:danielawario@outlook.com) 
-
+<a href="https://www.linkedin.com/in/danielawario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="danielawariomerlo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="GMAIL"></a> 
