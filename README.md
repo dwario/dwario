@@ -10,8 +10,8 @@ I’m a software developer with a passion for data science and data analysis, ap
 
 ### 🏛 Education
 [![UdG - CUCEI](https://img.shields.io/static/v1?label=UdG&message=CUCEI&color=%23152491&style=for-the-badge)](https://)
+<img src="https://img.shields.io/badge/DataCamp-03EF62.svg?style=for-the-badge&logo=DataCamp&logoColor=#05192d">
 [![Platzi Master - C8](https://img.shields.io/static/v1?label=Platzi+Master&message=C8&color=%23159122&style=for-the-badge)](https://)
-<img src="https://img.shields.io/badge/DataCamp-03EF62.svg?style=for-the-badge&logo=DataCamp&logoColor=white">
 ![GENERATION - C15](https://img.shields.io/badge/GENERATION%20--%20C15-3e65cf?style=for-the-badge)
 
 ### 📫 Contact 
