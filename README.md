@@ -15,11 +15,5 @@ Frontend Developer by day Ninja by night, who is passionate about web technologi
 
 ### 📫 Contact 
 
-<a href="https://www.linkedin.com/in/danielawario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![Outlook](https://img.shields.io/badge/danielawario@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&mailto:danielawario@outlook.com)](mailto:danielawario@outlook.com) 
-
-### ⚡️ Stats
-
-![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwario&show_icons=true&theme=blueberry)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwario&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<a href="https://www.linkedin.com/in/danielawario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![GMAIL](https://img.shields.io/badge/danielawario@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&mailto:danielawario@outlook.com)](mailto:danielawario@outlook.com) 
 
